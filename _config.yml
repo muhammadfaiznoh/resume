@@ -56,11 +56,11 @@ content:
     content:
       - layout: top-middle
         title: Data Science project
-        link: github.com/sproogen
+        link: muhammadfaiznoh.github.io/DataScience/
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
+            icon: fas fa-globe
             url: muhammadfaiznoh.github.io/DataScience/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
