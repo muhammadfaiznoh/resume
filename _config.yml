@@ -85,6 +85,19 @@ content:
         description: | # this will include new lines to allow paragraphs
             Handling & managing master database, create new module based on requirement,  provided monthly data, design Relational Databases, maintain current system and maintain code versioning.
 
+    # layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: RSA Khidmat Sdn Bhd
+        link: rsakhidmat.com.my
+        # link_text: boringcompany.com
+        sub_title: Mobile Apps Developer
+        caption: August 2017 - August 2019
+        quote: >
+          Involved in mobile application development
+        description: | # this will include new lines to allow paragraphs
+            Develop, design and update mobile application on Play Store and Apple Store to fulfill client’s and userneeds. Develop and update back end web application. Used IONIC hybrid mobile framework and PHPfor API back end web application.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
